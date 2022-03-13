@@ -19,3 +19,4 @@
 - User can remove city from favorite list.
 - Cache weather info.
 - Apply clean architecture (Presenter, Domain, Data).
+![image description](https://github.com/ducthong230497/WeatherApp/blob/main/app/src/main/res/drawable/app_flow.png)
