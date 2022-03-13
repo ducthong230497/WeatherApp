@@ -25,6 +25,8 @@ class WeatherRepositoryImpl(
             } else {
                 emit(DataResult.error(Exception(response.message())))
             }
+        }.catch {
+            this.emit(DataResult.error(Exception("Something went wrong")))
         }
     }
 
