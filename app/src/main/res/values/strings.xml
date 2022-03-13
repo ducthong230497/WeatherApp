@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="search_city">Search City</string>
+    <string name="current_weather_at">Current Weather at %s</string>
+    <string name="temperature">Temperature: %f</string>
+    <string name="humidity">Humidity: %f</string>
+    <string name="wind_speed">Wind Speed: %f</string>
+    <string name="wind_deg">Wind Deg: %f</string>
+    <string name="wind_gust">Wind Gust: %f</string>
+    <string name="weather">Weather: %s</string>
+    <string name="forecast_for_date">Forecast for %s</string>
+    <string name="remove_city_from_favorite">Remove %s from favorite list</string>
+    <string name="removed_city_from_favorite">Removed %s from favorite list</string>
+    <string name="add_city_to_favorite">Add %s to favorite list</string>
+    <string name="added_city_to_favorite">Added %s to favorite list</string>
+    <string name="favorite_city">Favorite city</string>
+</resources>
