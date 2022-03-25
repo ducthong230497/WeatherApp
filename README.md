@@ -1,4 +1,4 @@
-# Minimalistic Github Client
+# Simple Weather App
 
 ## Library used
 - [Retrofit] to create network requests.
